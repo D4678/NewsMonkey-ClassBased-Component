@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "India v Australia - Cricket - BBC Sport",
+            "description": "Find out the in depth batting and bowling figures for India v Australia in the Test Match Series on BBC Sport.",
+            "url": "http://www.bbc.co.uk/sport/cricket/scorecard/ECKO56738",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-03-09T09:07:18.1657263Z",
+            "content": "<table><tr><th>Batter</th><th>How Out</th><th>Bowler</th><th>Runs</th><th>Balls</th><th>4s</th><th>6s</th><th>Mins</th><th>SR</th></tr>\r\n<tr><th>Total</th><th>(51.0 overs)</th><th>132-for2wickets</th… [+1812 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Live scorecard: India vs Australia, fourth Test in Ahmedabad",
+            "description": "Australia is looking to draw the series with victory in cricket's largest stadium, the Narendra Modi Stadium in Ahmedabad. Follow all the live scores in our scorecard.",
+            "url": "http://www.abc.net.au/news/2023-03-09/live-scorecard-india-vs-australia-fourth-test-ahmedabad/102068776",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/efe80d41a60494b6829cf55bc923150f?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=431&width=862&height=485",
+            "publishedAt": "2023-03-09T03:33:13Z",
+            "content": "There is a watch and act warning in place for Tambaroora in New South Wales. For the latest information, search ABC Emergency"
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Matthew Sullivan",
+            "title": "Albo’s India meeting sparks cricket farce",
+            "description": "<p>Welcome to news.com.au&rsquo;s coverage of the fourth and final Test between Australia and India.</p>",
+            "url": "https://www.news.com.au/sport/cricket/australia-vs-india-4th-test-day-1-live-albos-meeting-with-india-pm-sparks-chaos/news-story/ae849f2f99f234dc0a3b3e644e8e1a00",
+            "urlToImage": "https://content.api.news/v3/images/bin/389657a674de7756afc531d349167109",
+            "publishedAt": "2023-03-09T03:05:00Z",
+            "content": "Welcome to news.com.au’s coverage of the fourth and final Test between Australia and India.\r\nIndia retained the Border Gavaskar Trophy after the first two Test but the Aussies restored some pride by … [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
